@@ -6,7 +6,7 @@ pool:
 
 variables:
   BuildConfiguration: 'Release'
-  ServiceConnection: 'Jason Specland MS Internal (78665f33-bc7d-43df-9f83-ac1064dd74eb)'
+  ServiceConnection: 'StaffCirclePulumiDemo'
 
 stages:
 - stage: 'Build'
